@@ -9,7 +9,7 @@
 
 [📄 Paper](https://arxiv.org/abs/2605.04530) ·
 [💻 Code](https://github.com/Overlxrd-uwu/SADE-NetworkAgent) ·
-[✉️ Email](mailto:kuanhaotseng108@gmail.com) ·
+[✉️ Email](mailto:jeffqaz741@gmail.com) ·
 [💼 LinkedIn](https://www.linkedin.com/in/kuanhaotseng/)
 
 </div>
@@ -28,4 +28,4 @@
 
 ---
 
-<div align="center"><sub>📫 Open to opportunities — kuanhaotseng108@gmail.com</sub></div>
+<div align="center"><sub>📫 Open to opportunities — jeffqaz741@gmail.com</sub></div>

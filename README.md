@@ -28,6 +28,7 @@
 - **[au-energy-data-pipeline](https://github.com/Overlxrd-uwu/au-energy-data-pipeline)** — ETL that scrapes public Australian energy & emissions open data (NGER, Clean Energy Regulator, ABS) into a spatial **DuckDB** warehouse. *Data engineering.*
 - **[cnn-image-classifier](https://github.com/Overlxrd-uwu/cnn-image-classifier)** — CIFAR-10 benchmark of Random Forest vs MLP vs a VGG-style **Keras** CNN on identical splits — the CNN reaches **84.2%** test accuracy vs ~50% for the flat-input baselines. *Deep learning.*
 - **[used-car-price-prediction](https://github.com/Overlxrd-uwu/used-car-price-prediction)** — Linear Regression, Decision Tree & Random Forest (R² 0.91) with a full regression-diagnostics suite. *Machine learning.*
+- **[airline-review-satisfaction](https://github.com/Overlxrd-uwu/airline-review-satisfaction)** — passenger-satisfaction classification on ~22k Skytrax reviews: five models benchmarked with/without **SMOTE**, leak-free pipelines (RF+SMOTE macro F1 0.693). *Machine learning.*
 - **[car-dealership-db](https://github.com/Overlxrd-uwu/car-dealership-db)** — a normalized **PostgreSQL** database — schema, ER model, sample queries, and a Flask demo app. *Databases.*
 - **[neetcode-submissions](https://github.com/Overlxrd-uwu/neetcode-submissions)** — data structures & algorithms practice, in Python.
 

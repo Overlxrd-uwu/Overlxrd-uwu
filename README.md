@@ -24,6 +24,7 @@
 
 ### Projects
 
+- **[nem-power-data-pipeline](https://github.com/Overlxrd-uwu/nem-power-data-pipeline)** — streaming pipeline for Australia's electricity market: REST acquisition → **DuckDB** star schema → **MQTT** replay → live **Streamlit** map dashboard (716k observations, 356 facilities). *Data engineering.*
 - **[au-energy-data-pipeline](https://github.com/Overlxrd-uwu/au-energy-data-pipeline)** — ETL that scrapes public Australian energy & emissions open data (NGER, Clean Energy Regulator, ABS) into a spatial **DuckDB** warehouse. *Data engineering.*
 - **[cnn-image-classifier](https://github.com/Overlxrd-uwu/cnn-image-classifier)** — CIFAR-10 benchmark of Random Forest vs MLP vs a VGG-style **Keras** CNN on identical splits — the CNN reaches **84.2%** test accuracy vs ~50% for the flat-input baselines. *Deep learning.*
 - **[used-car-price-prediction](https://github.com/Overlxrd-uwu/used-car-price-prediction)** — Linear Regression, Decision Tree & Random Forest (R² 0.91) with a full regression-diagnostics suite. *Machine learning.*

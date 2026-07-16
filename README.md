@@ -8,8 +8,8 @@ First author of **SADE** — accepted at **IEEE LCN 2026**
 
 [📄 Paper](https://arxiv.org/abs/2605.04530) ·
 [💻 Code](https://github.com/Overlxrd-uwu/SADE-NetworkAgent) ·
-[✉️ Email](mailto:kuanhaotseng108@gmail.com)
-<!-- · [💼 LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) -->
+[✉️ Email](mailto:kuanhaotseng108@gmail.com) ·
+[💼 LinkedIn](https://www.linkedin.com/in/jeff-tseng-37764828a/)
 
 </div>
 

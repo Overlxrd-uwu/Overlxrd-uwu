@@ -1,10 +1,11 @@
 <div align="center">
- 
-# Kuan-Hao Tseng
 
-**Building LLM agents for network troubleshooting**
-
-First author of **SADE** — accepted at **IEEE LCN 2026**
+<a href="https://arxiv.org/abs/2605.04530">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Overlxrd-uwu/Overlxrd-uwu/main/assets/card-dark.svg">
+    <img src="https://raw.githubusercontent.com/Overlxrd-uwu/Overlxrd-uwu/main/assets/card-light.svg" alt="Kuan-Hao (Jeff) Tseng — Building LLM agents for network troubleshooting · First author of SADE (IEEE LCN 2026)" width="800">
+  </picture>
+</a>
 
 [📄 Paper](https://arxiv.org/abs/2605.04530) ·
 [💻 Code](https://github.com/Overlxrd-uwu/SADE-NetworkAgent) ·

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="230" viewBox="0 0 800 230" role="img" aria-label="Kuan-Hao (Jeff) Tseng — Building LLM agents for network troubleshooting">
+  <defs>
+    <clipPath id="pc"><circle cx="115" cy="115" r="75"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="798" height="228" rx="18" fill="{{BG}}" stroke="{{BORDER}}" stroke-width="1.5"/>
+  <circle cx="115" cy="115" r="78" fill="none" stroke="{{RING}}" stroke-width="3"/>
+  <circle cx="115" cy="115" r="76.5" fill="none" stroke="{{BORDER}}" stroke-width="1"/>
+  <image x="40" y="40" width="150" height="150" clip-path="url(#pc)" preserveAspectRatio="xMidYMid slice" href="{{PHOTO}}"/>
+  <text x="210" y="84" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="{{TITLE}}">Kuan-Hao (Jeff) Tseng</text>
+  <rect x="212" y="96" width="46" height="3.5" rx="1.75" fill="{{ACCENT}}"/>
+  <text x="210" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="{{TEXT}}">Building LLM agents for network troubleshooting.</text>
+  <text x="210" y="147" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="{{MUTED}}">First author of SADE · IEEE LCN 2026 · MSc CS @ University of Sydney</text>
+  <text x="762" y="52" text-anchor="end" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="{{MUTED}}">arXiv:2605.04530</text>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5">
+    <rect x="210" y="166" width="76" height="30" rx="15" fill="{{PILL_BG}}" stroke="{{PILL_BORDER}}"/>
+    <text x="248" y="185" text-anchor="middle" fill="{{PILL_TEXT}}">Python</text>
+    <rect x="298" y="166" width="102" height="30" rx="15" fill="{{PILL_BG}}" stroke="{{PILL_BORDER}}"/>
+    <text x="349" y="185" text-anchor="middle" fill="{{PILL_TEXT}}">LLM Agents</text>
+    <rect x="412" y="166" width="110" height="30" rx="15" fill="{{PILL_BG}}" stroke="{{PILL_BORDER}}"/>
+    <text x="467" y="185" text-anchor="middle" fill="{{PILL_TEXT}}">Claude Code</text>
+    <rect x="534" y="166" width="106" height="30" rx="15" fill="{{PILL_BG}}" stroke="{{PILL_BORDER}}"/>
+    <text x="587" y="185" text-anchor="middle" fill="{{PILL_TEXT}}">Networking</text>
+  </g>
+</svg>

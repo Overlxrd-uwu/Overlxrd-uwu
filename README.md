@@ -25,15 +25,6 @@ First author of **SADE** — accepted at **IEEE LCN 2026**
 
 `Python` · `LLM agents` · `Claude Code` · `agent skills & prompt engineering` · `network diagnostics` · `Linux` · `Git`
 
-### Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Overlxrd-uwu&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Overlxrd-uwu&show_icons=true&count_private=true&hide_border=true&hide_rank=true&bg_color=00000000&text_color=57606a&title_color=0969da&icon_color=0969da">
-  </picture>
-</div>
-
 ---
 
 <div align="center"><sub>📫 Open to opportunities — kuanhaotseng108@gmail.com</sub></div>
